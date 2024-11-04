@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\10-M\Sistem Giriş\Sistem Giriş\bin\Debug\Sistem Giriş.exe.config
+C:\Users\user\Desktop\10-M\Sistem Giriş\Sistem Giriş\bin\Debug\Sistem Giriş.exe
+C:\Users\user\Desktop\10-M\Sistem Giriş\Sistem Giriş\bin\Debug\Sistem Giriş.pdb
+C:\Users\user\Desktop\10-M\Sistem Giriş\Sistem Giriş\obj\Debug\Sistem_Giriş.Form1.resources
+C:\Users\user\Desktop\10-M\Sistem Giriş\Sistem Giriş\obj\Debug\Sistem_Giriş.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Sistem Giriş\Sistem Giriş\obj\Debug\Sistem Giriş.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Sistem Giriş\Sistem Giriş\obj\Debug\Sistem Giriş.exe
+C:\Users\user\Desktop\10-M\Sistem Giriş\Sistem Giriş\obj\Debug\Sistem Giriş.pdb
